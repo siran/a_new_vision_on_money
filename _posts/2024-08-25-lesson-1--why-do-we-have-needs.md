@@ -1,6 +1,6 @@
 ---
 title: "Lesson 1: Why Do We Have Needs?"
-date: 2024-08-24 03:49:39
+date: 2024-08-25 03:49:39
 excerpt: The Course describes Heaven not as a place but as a state of mind in which there is a complete absence of needs.
 tags:
   - money
