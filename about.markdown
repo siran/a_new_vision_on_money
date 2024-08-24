@@ -3,8 +3,6 @@ layout: page
 title: About "A New Vision on Money"
 permalink: /about/
 ---
-Hi! I am An Rodriguez and you are visiting the den of my thoughts.
-
 ## F.A.Q.
 
 ## Why?

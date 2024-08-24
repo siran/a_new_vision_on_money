@@ -11,7 +11,7 @@ People with spiritual inclinations and students of [A Course in Miracles](https:
 
 I have also met many people who wanted to dedicate their lives to God, to give workshops, to offer therapy, but they constantly find themselves limited by financial capacity or concerns. From a broader perspective, each of us has become dependent on money. Without it, we cannot live or thrive.
 
-In the world of spirituality, there seem to be two main currents regarding how to view money. The first current, perhaps older, tells us that money is an evil force. In the Bible, for example, we find a passage that says that the love of money is the root of all evil. There is also the famous saying of Jesus that it is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of heaven.
+In the world of spirituality, there seems to be two main currents regarding how to view money. The first current, perhaps older, tells us that money is an evil force. In the Bible, for example, we find a passage that says that the love of money is the root of all evil. There is also the famous saying of Jesus that it is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of heaven.
 
 ![Scrooge Mc Duck counting his money.](https://siran.github.io/assets/a_new_vision_on_money/scrooge-mc-duck.png)
 
