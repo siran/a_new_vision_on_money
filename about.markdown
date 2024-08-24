@@ -5,10 +5,18 @@ permalink: /about/
 ---
 ## F.A.Q.
 
-## Why?
-This is a summary on the topic of the money as explaines to us in A Course in Miracles (https://acimce.app/book/In).
+## Who?
+Originally written in Spanish by José Lorenzo Rodriguez.
 
-These lessons were written in Spanish by Jose Lorenzo Rodriguez. I think it is useful to translate it to as many languages as possible. This is my contribution to have the content in English.
+## What?
+This is a summary on the topic of the money as explained to us in A Course in Miracles (https://acimce.app/book/In).
+
+## Why?
+The way he extracts and organizes so many concepts taken from all over the Course, needed to be shared with a wider audience.
+
+I humbly and possibly add some dozens more to his audience.
+
+These lessons were originally written in Spanish by Jose Lorenzo Rodriguez. I think it is useful to translate it to as many languages as possible.
 
 ---
 
