@@ -16,13 +16,6 @@ layout: default
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}:&nbsp;</span>
-        <span>
-          {% assign tags_sorted = post.tags | sort %}
-          {% for tag in tags_sorted %}
-            {{ tag }}&nbsp;
-          {% endfor %}
-        </span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {%- if post.draft -%}
