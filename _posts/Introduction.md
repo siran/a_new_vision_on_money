@@ -13,11 +13,11 @@ I have also met many people who wanted to dedicate their lives to God, to give w
 
 In the world of spirituality, there seem to be two main currents regarding how to view money. The first current, perhaps older, tells us that money is an evil force. In the Bible, for example, we find a passage that says that the love of money is the root of all evil. There is also the famous saying of Jesus that it is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of heaven.
 
-![Scrooge Mc Duck counting his money.](assets/writing/scrooge-mc-duck.png)
+![Scrooge Mc Duck counting his money.](assets/scrooge-mc-duck.png)
 
 On the other hand, there is a very popular current today that assures us that money is inherently good. According to this view, our goal is to have money and be abundant. God wants you to have everything you desire. Your abundance and the world you manifest are reflections of your alignment with God and His will. The topic of manifestation is very fashionable today, and books like "The Secret" teach us how to find God's will and attain everything we want in this world.
 
-![A vision board.](assets/writing/vision-board.png)
+![A vision board.](assets/vision-board.png)
 
 As students of [A Course in Miracles](https://acimce.app/book/W-In), we should be clear on this topic if we truly seek peace in our lives and aim to bring peace to the world as well. What does the Course say about this issue? How can we completely escape the illusion of money and the hold it has over our lives? How can we obtain what we truly want?
 

@@ -1,1 +1,9 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+venv
+.vscode
+_posts/.obsidian/workspace.json
 .obsidian
