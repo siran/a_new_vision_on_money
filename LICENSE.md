@@ -1,0 +1,1 @@
+A New Vision on Money © 2024 by Jose Lorenzo Rodriguez (translated by An Rodriguez) is licensed under Creative Commons Attribution-NoDerivatives 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/4.0/
