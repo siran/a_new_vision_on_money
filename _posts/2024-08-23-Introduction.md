@@ -1,6 +1,6 @@
 ---
 title: Introduction - A New Vision on Money
-date: 2024-08-24 10:29:45
+date: 2024-08-23 10:29:45
 excerpt: When money becomes an end in itself, it also becomes a source of problems on its own. For example, it is well known that one of the main causes of relationship breakups nowadays is money.
 ---
 There is no doubt that money is a source of concern for many people. Today’s popular culture is filled with references on how to succeed, how to get what you want, how to achieve your dreams, and each of these goals seems to require money as a means to fulfill our deepest desires. In this way, money becomes an end rather than a means, as we forget about the experience we want to have and focus solely on money as the goal. Money thus becomes an idol or a god in itself.
