@@ -15,7 +15,7 @@ On one hand, we feel attracted to God, and on the other, God attracts us as if H
 
 When we think of the word attraction, we usually think of a romantic relationship. Inevitably, thoughts associated with desire, repulsion, and sometimes disinterest in certain aspects of the other person come to mind. However, in heaven, our natural state is one of total attraction to God. It is the only thing we desire; the elements of repulsion and disinterest are not present there. God is perfectly attractive.
 
-In every relationship of attraction, there is a desire to belong. If you do not believe me, think of a soap opera - perhaps love movies - and remember phrases like "make me yours" or "you will be mine."
+In every relationship of attraction, there is a desire to belong. If you do not believe me, think of a soap opera - perhaps romantic movies - and remember phrases like "make me yours" or "you will be mine."
 
 Also beliefs like, "a family belongs to its own home," or that some people believe that children belong to their parents. 
 
