@@ -42,7 +42,7 @@ Anyone who has fallen in love in this world has experienced the desire to posses
 
 Here we can see that the classic roles of man and woman as a sexual couple are the product of a distortion. The man wants to possess the woman, and the woman wants the man to make her his. However, Jesus adds that neither role is satisfactory in itself, which leads to more confusion that is projected onto sex.
 
-## Type 2: The Desire to Possess Material Things
+## Type 2: The desire to possess material things
 The second type of distortion occurs when we direct the desire for possession toward material things. This is the type of distortion in which money plays a part:
 
 > From a rather similar reference point, possession can also be associated with things. This is essentially a shift from type 1 and is usually due to an underlying fear of associating possession with people. In this sense, it is an attempt to _protect_ people from one's possessiveness, like the superstition about "protecting the name" we mentioned before. ([CE T-2.I.4](https://acimce.app/:T-2.I.4))
