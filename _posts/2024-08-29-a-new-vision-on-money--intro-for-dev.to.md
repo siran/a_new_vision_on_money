@@ -8,7 +8,7 @@ tags:
 ---
 I have been a developer for as long as I can remember.
 
-By developer, I mean that I use computers to develop mostly backend software and tooling, manage infrastructure in the cloud as DevOps, do research in computational physics, algorithmic trading, and data analysis. And more.
+By developer, I mean that I use computers as tools. I use them to develop mostly backend software and tooling, manage infrastructure in the cloud as DevOps, do research in computational physics, algorithmic trading, data analysis. And more.
 
 That said, almost 10 years ago I moved to the U.S. After about 3 years of arriving, I was granted a work permit, and then I could start looking for work.
 
