@@ -74,7 +74,7 @@ For example, if you find yourself distressed about a debt or because someone has
 
 	"I made up that this debt has the power to alter me. But my true author is God, and my inheritance is His peace."
 
-	"I have made up that this opinion has the power to alter me. But my true author is God, and my inheritance is His peace."
+	"I made up that this opinion has the power to alter me. But my true author is God, and my inheritance is His peace."
 
 As usual, remember to say the words very slowly and feel their meaning. It is not about repeating them like a parrot, but about allowing yourself to feel how the content those words represent has the power to dissolve illusions. Remember to apply the response to temptation until you feel an internal change. It might also help to say them with a sense of declaring your independence from those external things.
 
