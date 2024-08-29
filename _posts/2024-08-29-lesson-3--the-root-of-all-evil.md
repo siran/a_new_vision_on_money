@@ -55,6 +55,7 @@ Why would I not accept peace, which is my inheritance?
 ## Practice
 ![](https://siran.github.io/assets/a_new_vision_on_money/woman-painting-wall.png)
 
+
 The way to apply these ideas in practice is by declaring your independence from the things that seem to define who you are. What things in this world do you believe define you? What things in this world have the power to alter your image?
 
 Today, we will spend the day identifying those things that seem to be our author and declaring independence from them. Some examples:
