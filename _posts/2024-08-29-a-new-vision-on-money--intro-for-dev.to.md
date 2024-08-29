@@ -6,6 +6,7 @@ tags:
   - philosophy
   - spirituality
 ---
+![](https://siran.github.io/assets/a_new_vision_on_money/money.png)
 I have been a developer for as long as I can remember.
 
 By developer, I mean that I use computers as tools. I use them to develop mostly backend software and tooling, manage infrastructure in the cloud as DevOps, do research in computational physics, algorithmic trading, data analysis. And more.
