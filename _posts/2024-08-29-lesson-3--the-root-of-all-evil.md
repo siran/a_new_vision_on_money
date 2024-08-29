@@ -7,6 +7,7 @@ In the introduction, we said that one view of money is that it is intrinsically 
 
 ![](https://siran.github.io/assets/a_new_vision_on_money/money-grows.png)
 
+
 Jesus tells us in the Course that money is an effect of a prior cause and therefore cannot be attributed with evil:
 
 > The authority problem, not money, is the real "root of all evil." Money is but one of its many reflections, and is a reasonably representative example of the kind of thinking which stems from it. The idea of buying and selling implies precisely the kind of exchange that the spirit cannot understand at all, because its own supply is always abundant and all its demands are fully met. ([CE T-4.II.1:3-5](https://acimce.app/:T-4.II.1:3-5))
