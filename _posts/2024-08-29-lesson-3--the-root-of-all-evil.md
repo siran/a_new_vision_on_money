@@ -2,6 +2,7 @@
 title: "Lesson 3: The root of all evil"
 date: 2024-08-29 06:14:05
 excerpt: Somehow, we have ingrained in our subconscious the idea that money is the cause of the many problems we experience. Who has not thought that without the unjust systems imposed by money, we would have a better society and a better world?
+canonical_url: https://anrodriguez.substack.com/p/lesson-3-the-root-of-all-evilhtml
 ---
 In the introduction, we said that one view of money is that it is intrinsically evil, the root of all evils. Somehow, we have ingrained in our subconscious the idea that money is the cause of the many problems we experience. Who has not thought that without the unjust systems imposed by money, we would have a better society and a better world? And who has not thought that money has the power to corrupt anyone? "Everyone has their price," says a famous saying.
 

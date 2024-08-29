@@ -4,6 +4,7 @@ date: 2024-08-25 03:49:39
 excerpt: The Course describes Heaven not as a place but as a state of mind in which there is a complete absence of needs.
 tags:
   - money
+canonical_url: https://anrodriguez.substack.com/p/lesson-1-why-do-we-have-needshtml
 ---
 The first thing to understand about needs is the idea the Course presents about our reality in Heaven. The Course describes Heaven not as a place but as a state of mind in which there is a complete absence of needs. We find this idea, for example, in Chapter 13:
 

@@ -6,6 +6,7 @@ tags:
   - philosophy
   - spirituality
 excerpt: Before we can explain where the idea of money comes from, it is necessary to take a small detour to explain the desire to possess.
+canonical_url: https://anrodriguez.substack.com/p/lesson-2-the-desire-to-possesshtml
 ---
 Before we can explain where the idea of money comes from, it is necessary to take a small detour to explain the desire to possess. After all, one of the main uses we give to money is to possess material things and also to control other people who work for us.
 
