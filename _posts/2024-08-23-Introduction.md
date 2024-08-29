@@ -4,7 +4,7 @@ date: 2024-08-23 10:29:45
 excerpt: When money becomes an end in itself, it also becomes a source of problems on its own. For example, it is well known that one of the main causes of relationship breakups nowadays is money.
 canonical_url: https://anrodriguez.substack.com/p/introductionhtml
 ---
-There is no doubt that money is a source of concern for many people. Today’s popular culture is filled with references on how to succeed, how to get what you want, and how to achieve your dreams. Each of these goals seems to require money as a means to fulfill our deepest desires. The bursuit of money has made it evident that money has become an end rather than a means. We tend to forget about the experience we want to get and focus solely on money as the goal. Money thus becomes an idol or a god in itself.
+There is no doubt that money is a source of concern for many people. Today’s popular culture is filled with references on how to succeed, how to get what you want, and how to achieve your dreams. Each of these goals seems to require money as a means to fulfill our deepest desires. The pursuit of money has made it evident that money has become an end rather than a means. We tend to forget about the experience we want to get and focus solely on money as the goal. Money thus becomes an idol or a god in itself.
 
 When money becomes an end in itself, it also becomes a source of problems on its own. For example, it is well known that one of the main causes of relationship breakups nowadays is money. Families disintegrate over old grudges related to money, and even entire countries go to war over economic issues.
 
