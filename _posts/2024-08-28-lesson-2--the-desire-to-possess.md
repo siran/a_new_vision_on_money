@@ -1,5 +1,5 @@
 ---
-title: "Lesson 2: The Desire to Possess"
+title: "Lesson 2: The desire to possess"
 date: 2024-08-28 10:28:29
 tags:
   - money
