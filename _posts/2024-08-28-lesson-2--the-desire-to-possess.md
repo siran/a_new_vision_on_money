@@ -8,6 +8,8 @@ tags:
 excerpt: Before we can explain where the idea of money comes from, it is necessary to take a small detour to explain the desire to possess.
 canonical_url: https://anrodriguez.substack.com/p/lesson-2-the-desire-to-possesshtml
 ---
+![](https://siran.github.io/assets/a_new_vision_on_money/rama-bestows-his-possessions.png)
+
 Before we can explain where the idea of money comes from, it is necessary to take a small detour to explain the desire to possess. After all, one of the main uses we give to money is to possess material things and also to control other people who work for us.
 
 Do not think that by separating from God we completely forgot about Him. Deep in the mind of each person lies a burning desire to return home. God did not forget about us either. He constantly calls us with His love and speaks to us throughout the day, reminding us how much He wants us to return to Him.

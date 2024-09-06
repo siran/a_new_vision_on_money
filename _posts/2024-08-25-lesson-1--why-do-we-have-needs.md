@@ -8,6 +8,8 @@ tags:
   - spirituality
 canonical_url: https://anrodriguez.substack.com/p/lesson-1-why-do-we-have-needshtml
 ---
+![](https://siran.github.io/assets/a_new_vision_on_money/woman-pool-winter.png)
+
 The first thing to understand about needs is the picture the Course paints about our reality in Heaven. The Course describes Heaven not as a place but as a state of mind in which there is a complete absence of needs. We find this idea, for example, in Chapter 13:
 
 > Your Father knoweth that you have need of nothing. In Heaven this is so, for what could you need in eternity? ([CE T-13.VIII.1:1-2](https://acimce.app/:T-13.VIII.1:1-2))

@@ -12,7 +12,8 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">A New Vision on Money</h2>
     <ul class="post-list">
-      {%- for post in site.posts | reverse -%}
+      {%- assign reversed_posts = site.posts | reverse -%}
+      {%- for post in  reversed_posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <h3>
@@ -23,9 +24,8 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-
         {%- if site.show_excerpts -%}
-          <div><i>{{ post.excerpt }}</i></div>
+        <div>{{ post.excerpt }}</div>
         {%- endif -%}
       </li>
       {%- endfor -%}

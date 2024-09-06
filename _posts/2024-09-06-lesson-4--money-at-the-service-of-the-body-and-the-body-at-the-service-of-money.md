@@ -1,11 +1,11 @@
 ---
 title: "Lesson 4: Money at the service of the body and the body at the service of money"
 date: 2024-09-06 07:03:45
-excerpt: The dreaming of the world takes many forms, because the body seeks in many ways to prove it is real; we think that "[the body] is _cause_ and not effect, and you are _its_ effect and cannot be its cause."
 tags:
   - money
   - philosophy
   - spirituality
+excerpt: The dreaming of the world takes many forms, because the body seeks in many ways to prove it is real; we think that "[the body] is _cause_ and not effect, and you are _its_ effect and cannot be its cause."
 ---
 ![](https://siran.github.io/assets/a_new_vision_on_money/man-lifting-money.png)
 
@@ -48,9 +48,9 @@ In this world, we see these problems as something very serious. We think that mo
 To prevent such an absurd system from spiraling out of control, we created rules and laws to follow. The Course assures us that, although we feel bound by these laws, we will feel deep liberation when we realize they are not really laws but part of a madness. It says this in Lesson 76 of the Workbook:
 
 > **3** Think of the freedom in the recognition that you are not bound to all the strange and twisted laws you have set up to save you. ²You really think that you will starve unless you have stacks of green paper strips and piles of metal discs. ³You really think a small round pellet or some fluid pushed into your veins through a sharpened needle will ward off death. ⁴You really think you are alone unless another body is with you. ([CE W-76.3:2-4](https://acimce.app/:W-76.3:2-4))
->
+
 > **4** It is insanity that thinks these things. ²You call them laws, and put them under different names in a long catalog of rituals that have no use and serve no purpose. ³You think you must obey the “laws” of medicine, of economics, and of health. ⁴Protect the body, and you will be saved. ([CE W-76.4](https://acimce.app/:W-76.4))
->
+
 > **5** These are not laws but madness. ([CE W-76.5:1](https://acimce.app/:W-76.5:1))
 
 There are many examples of these laws. For instance, the idea that we must earn a living. In the psychotherapy supplement of the Course, it says that we believe 
@@ -89,16 +89,11 @@ Dedicate about 15 minutes in the morning to the following practice:
 
 4. Release each belief with these words, said slowly and with full confidence that they will take effect:
 
-```
-"I believe that ____________, but that is not truel; I am governed only by the laws of God."
-```
+	"I believe that ____________, but that is not truel; I am governed only by the laws of God."
 
 For example:
 
-```
-"I believe that I would starve if I had no money, but that is not true. I am governed only by the laws of God."
-```
-
+	"I believe that I would starve if I had no money, but that is not true. I am governed only by the laws of God."
 
 If you practice correctly, your mind will naturally reach a state of silence where you will find no more beliefs, and you will experience peace.
 
@@ -111,14 +106,11 @@ Throughout the day, stay alert for any thought that suggests you must serve the 
 
 Whenever you catch yourself having a thought aimed at pleasing the body or achieving goals that serve the body, immediately respond with the truth:
 
-```
-"This thing I believe I need is not what will make me happy. I will be still and listen to the alternative God offers me."
-```
+	"This thing I believe I need is not what will make me happy. I will be still and listen to the alternative God offers me."
 
 Always remember that the words should be spoken slowly and with attention to the meaning they carry. For example, when you say "I will be still to listen," do exactly that.
 
 Additionally, set a timer on your phone to remind you every 20 minutes to keep your focus throughout the day:
 
-```
-"Today I will not waste time trying to prove to myself that the body commands me."
-```
+	"Today I will not waste time trying to prove to myself that the body commands me."
+

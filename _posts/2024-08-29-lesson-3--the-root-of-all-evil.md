@@ -8,9 +8,9 @@ tags:
   - philosophy
   - spirituality
 ---
-In the introduction, we said that one view of money is that it is intrinsically evil, the root of all evils. Somehow, we have ingrained in our subconscious the idea that money is the cause of the many problems we experience. Who has not thought that without the unjust systems imposed by money, we would have a better society and a better world? And who has not thought that money has the power to corrupt anyone? "Everyone has their price," says a famous saying.
-
 ![](https://siran.github.io/assets/a_new_vision_on_money/money-grows.png)
+
+In the introduction, we said that one view of money is that it is intrinsically evil, the root of all evils. Somehow, we have ingrained in our subconscious the idea that money is the cause of the many problems we experience. Who has not thought that without the unjust systems imposed by money, we would have a better society and a better world? And who has not thought that money has the power to corrupt anyone? "Everyone has their price," says a famous saying.
 
 
 Jesus tells us in the Course that money is an effect of a prior cause and therefore cannot be attributed with evil:
