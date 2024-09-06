@@ -2,7 +2,6 @@
 title: "Lesson 4: Money at the service of the body and the body at the service of money"
 date: 2024-09-06 07:03:45
 excerpt: The dreaming of the world takes many forms, because the body seeks in many ways to prove it is real; we think that "[the body] is _cause_ and not effect, and you are _its_ effect and cannot be its cause."
-canonical_url: 
 tags:
   - money
   - philosophy
