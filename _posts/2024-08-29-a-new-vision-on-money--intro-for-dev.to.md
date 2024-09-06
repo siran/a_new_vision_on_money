@@ -6,6 +6,7 @@ tags:
   - philosophy
   - spirituality
 excerpt: Today I can see more clearly that the feeling of agency they lacked in their lives can be attributed to the idea that we need money to succeed.
+canonical_url: https://anrodriguez.substack.com/p/a-new-vision-on-money-intro-for-devtohtml
 ---
 ![](https://siran.github.io/assets/a_new_vision_on_money/money.png)
 

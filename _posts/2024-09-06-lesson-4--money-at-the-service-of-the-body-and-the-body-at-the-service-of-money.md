@@ -6,6 +6,7 @@ tags:
   - philosophy
   - spirituality
 excerpt: The dreaming of the world takes many forms, because the body seeks in many ways to prove it is real; we think that "[the body] is _cause_ and not effect, and you are _its_ effect and cannot be its cause."
+canonical_url: https://anrodriguez.substack.com/p/lesson-4-money-at-the-service-of-the-body-and-the-body-at-the-service-of-moneyhtml
 ---
 ![](https://siran.github.io/assets/a_new_vision_on_money/man-lifting-money.png)
 
