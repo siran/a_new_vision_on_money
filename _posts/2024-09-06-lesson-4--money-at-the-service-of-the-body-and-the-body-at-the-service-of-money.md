@@ -54,7 +54,7 @@ To prevent such an absurd system from spiraling out of control, we created rules
 
 > These are not laws but madness. ([CE W-76.5:1](https://acimce.app/:W-76.5:1))
 
-There are many examples of these laws. For instance, the idea that we must earn a living. In the psychotherapy supplement of the Course, it says that we believe "it is ushered in by the belief that there are forces to be overcome to be alive at all." ([P-2.V.1](https://acim.org/acim/psychotherapy/the-process-of-healing/en/s/909) ).
+There are many examples of these laws. For instance, the idea that we must earn a living. In the psychotherapy supplement of the Course, it says that we believe "it is ushered in by the belief that there are forces to be overcome to be alive at all." ([P-2.V.1](https://acim.org/acim/psychotherapy/the-process-of-healing/en/s/909)).
 
 That is, **we think that life must involve effort for it to exist**.
 
@@ -88,7 +88,7 @@ Dedicate about 15 minutes in the morning to the following practice:
 
 4. Release each belief with these words, said slowly and with full confidence that they will take effect:
 
-> "I believe that ____________, but that is not true; I am governed only by the laws of God."
+> "I believe that ---------------, but that is not true; I am governed only by the laws of God."
 
 For example:
 
