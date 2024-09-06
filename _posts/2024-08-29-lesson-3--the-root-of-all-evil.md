@@ -73,16 +73,24 @@ Today, we will spend the day identifying those things that seem to be our author
 
 Stay alert throughout the day to identify any thought that seems to indicate that the world is your author and has the ability to dictate who you are or how you feel. You will easily know this whenever you see that you have lost your peace. Each time you identify such a thought, immediately respond with the truth by saying:
 
-	"I made up the idea that ________ has the power to alter me. But my true author is God, and my inheritance is His peace."
+```
+"I made up the idea that ________ has the power to alter me. But my true author is God, and my inheritance is His peace."
+```
 
 For example, if you find yourself distressed about a debt or because someone has a bad opinion of you, you can say:
 
-	"I made up that this debt has the power to alter me. But my true author is God, and my inheritance is His peace."
+```
+"I made up that this debt has the power to alter me. But my true author is God, and my inheritance is His peace."
+```
 
-	"I made up that this opinion has the power to alter me. But my true author is God, and my inheritance is His peace."
+```
+"I made up that this opinion has the power to alter me. But my true author is God, and my inheritance is His peace."
+```
 
 As usual, remember to say the words very slowly and feel their meaning. It is not about repeating them like a parrot, but about allowing yourself to feel how the content those words represent has the power to dissolve illusions. Remember to apply the response to temptation until you feel an internal change. It might also help to say them with a sense of declaring your independence from those external things.
 
 Additionally, set your phone timer to remind you every 20 minutes of the truth. It is important to keep a true idea in mind throughout the day; otherwise, your mind will get lost in daily distractions and you will think again that the world is your author. You can use this phrase:
 
-	My worth is not determined by anything in this world. My worth was established by God.
+```
+My worth is not determined by anything in this world. My worth was established by God.
+```

@@ -103,10 +103,14 @@ Observe your mind throughout the day. The thoughts you are looking for are those
 
 Many of these things are part of "normal life" and may not seem like thoughts to you. That is why you need to be very vigilant to recognize the moments when you think you want these things. Once you have identified the thought, respond immediately:
 
-	"I am confused because I think possessing ________ is what will bring me happiness [peace, freedom, etc.]. What I am really seeking through this is to belong to God."
+```
+"I am confused because I think possessing ________ is what will bring me happiness [peace, freedom, etc.]. What I am really seeking through this is to belong to God."
+```
 
 Just like in the previous practice, close your eyes and say these words very slowly, letting their meaning enter your mind and help you change your perspective. When you feel an internal shift, that will be the moment to stop. If you feel resistance, try to continue for a few more seconds. If the resistance persists, that will also be the moment to stop.
 
 Additionally, set your phone timer to remind you every 20 minutes of this idea:
 
-	"Today, I will not fight against my irresistible attraction to God."
+```
+"Today, I will not fight against my irresistible attraction to God."
+```
