@@ -1,5 +1,5 @@
 ---
-title: "Lesson 4: Money at the service of the body and the body at the service of money"
+title: "Lesson 4: Money at the service of the body, and the body at the service of money"
 date: 2024-09-06 07:03:45
 tags:
   - money
@@ -47,17 +47,15 @@ In this world, we see these problems as something very serious. We think that mo
 
 To prevent such an absurd system from spiraling out of control, we created rules and laws to follow. The Course assures us that, although we feel bound by these laws, we will feel deep liberation when we realize they are not really laws but part of a madness. It says this in Lesson 76 of the Workbook:
 
-> **3** Think of the freedom in the recognition that you are not bound to all the strange and twisted laws you have set up to save you. ²You really think that you will starve unless you have stacks of green paper strips and piles of metal discs. ³You really think a small round pellet or some fluid pushed into your veins through a sharpened needle will ward off death. ⁴You really think you are alone unless another body is with you. ([CE W-76.3:2-4](https://acimce.app/:W-76.3:2-4))
+> Think of the freedom in the recognition that you are not bound to all the strange and twisted laws you have set up to save you. You really think that you will starve unless you have stacks of green paper strips and piles of metal discs. You really think a small round pellet or some fluid pushed into your veins through a sharpened needle will ward off death. You really think you are alone unless another body is with you. ([CE W-76.3:2-4](https://acimce.app/:W-76.3:2-4))
 
-> **4** It is insanity that thinks these things. ²You call them laws, and put them under different names in a long catalog of rituals that have no use and serve no purpose. ³You think you must obey the “laws” of medicine, of economics, and of health. ⁴Protect the body, and you will be saved. ([CE W-76.4](https://acimce.app/:W-76.4))
+> It is insanity that thinks these things. You call them laws, and put them under different names in a long catalog of rituals that have no use and serve no purpose. You think you must obey the "laws" of medicine, of economics, and of health. Protect the body, and you will be saved. ([CE W-76.4](https://acimce.app/:W-76.4))
 
-> **5** These are not laws but madness. ([CE W-76.5:1](https://acimce.app/:W-76.5:1))
+> These are not laws but madness. ([CE W-76.5:1](https://acimce.app/:W-76.5:1))
 
-There are many examples of these laws. For instance, the idea that we must earn a living. In the psychotherapy supplement of the Course, it says that we believe 
+There are many examples of these laws. For instance, the idea that we must earn a living. In the psychotherapy supplement of the Course, it says that we believe "it is ushered in by the belief that there are forces to be overcome to be alive at all." ([P-2.V.1](https://acim.org/acim/psychotherapy/the-process-of-healing/en/s/909) ).
 
-> "it is ushered in by the belief that there are forces to be overcome to be alive at all." ([P-2.V.1](https://acim.org/acim/psychotherapy/the-process-of-healing/en/s/909) ). 
-
-That is, we think that life must involve effort for it to exist.
+That is, **we think that life must involve effort for it to exist**.
 
 Another fundamental law is the law of supply and demand. In this world, supply is always limited, and needs are said to be infinite. According to the laws of the world, we think it is not our natural right granted by God, but a privilege we must fight for. Since supply is limited, we think we are in competition with others, who take away what we seek to live.
 
@@ -113,4 +111,3 @@ Always remember that the words should be spoken slowly and with attention to the
 Additionally, set a timer on your phone to remind you every 20 minutes to keep your focus throughout the day:
 
 	"Today I will not waste time trying to prove to myself that the body commands me."
-
