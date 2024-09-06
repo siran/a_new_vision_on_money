@@ -88,15 +88,11 @@ Dedicate about 15 minutes in the morning to the following practice:
 
 4. Release each belief with these words, said slowly and with full confidence that they will take effect:
 
-```
-"I believe that ____________, but that is not true; I am governed only by the laws of God."
-```
+> "I believe that ____________, but that is not true; I am governed only by the laws of God."
 
 For example:
 
-```
-"I believe that I would starve if I had no money, but that is not true. I am governed only by the laws of God."
-```
+> "I believe that I would starve if I had no money, but that is not true. I am governed only by the laws of God."
 
 If you practice correctly, your mind will naturally reach a state of silence where you will find no more beliefs, and you will experience peace.
 
@@ -109,14 +105,10 @@ Throughout the day, stay alert for any thought that suggests you must serve the 
 
 Whenever you catch yourself having a thought aimed at pleasing the body or achieving goals that serve the body, immediately respond with the truth:
 
-```
-"This thing I believe I need is not what will make me happy. I will be still and listen to the alternative God offers me."
-```
+> "This thing I believe I need is not what will make me happy. I will be still and listen to the alternative God offers me."
 
 Always remember that the words should be spoken slowly and with attention to the meaning they carry. For example, when you say "I will be still to listen," do exactly that.
 
 Additionally, set a timer on your phone to remind you every 20 minutes to keep your focus throughout the day:
 
-```
-"Today I will not waste time trying to prove to myself that the body commands me."
-```
+> "Today I will not waste time trying to prove to myself that the body commands me."

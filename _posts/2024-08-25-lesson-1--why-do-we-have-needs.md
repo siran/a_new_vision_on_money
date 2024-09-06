@@ -63,21 +63,21 @@ Today, we will use the technique of responding to temptation. It has two parts:
 
 For each thought of lack or need, respond slowly but without delay with the following phrase:
 
-	"Right now, I believe I need _______, but my Self is truly asking for God."
+> "Right now, I believe I need ----------, but my Self is truly asking for God."
 
 For example, if you feel hunger, boredom, a need for a hug, or tiredness, respond immediately with:
 
-	"Right now, I believe I need [to eat, to watch TV, a hug, to sleep], but my Self is truly asking for God."
+> "Right now, I believe I need -- to eat, to watch TV, a hug, to sleep --, but my Self is truly asking for God."
 
 Do this with your eyes closed and spend at least half a minute slowly repeating the phrase. Connect with the meaning of the phrase and how it makes you feel. Continue repeating it, slowly and mindfully, until you sense an internal shift, no matter how small. If you feel strong resistance, that is the moment to stop.
 
 This practice does not mean you should refrain from doing anything. For instance, it does not expect you to ignore hunger and not eat. The purpose is to train your mind to recognize that it is not the body that asks for things, but a deeper desire to return to your natural state.
 
-1. **Throughout the day, observe your mind and identify thoughts of need.**
+2. **Throughout the day, observe your mind and identify thoughts of need.**
 
 Use your phone's timer to set an alarm every 20 minutes. Each time the alarm goes off, remind yourself of this truth:
 
-"God created me perfect and without lack. Let my mind be one again so I can return home."
+> "God created me perfect and without lack. Let my mind be one again so I can return home."
 
 Write this phrase somewhere visible so you do not forget. If repeating it every 20 minutes is too challenging, set the alarm for every 30 minutes or 1 hour. Do not decide in advance if it is too frequent—just try it. It is okay if you occasionally forget to repeat the phrase.
 
