@@ -26,7 +26,7 @@ For example, when we hear someone judge another by their physical appearance, we
 
 Through the ages we have imposed onto ourselves a system of thought that teaches and reinforces the idea that the body is cause and the mind is its effect.
 
-This system of thought starts with the idea that the body has its impulses and needs like feeling cold, an impulse that tells us the body requires clothing and other accessories.
+This system of thought starts with the idea that the body has its impulses and needs, like feeling cold - an impulse that tells us the body requires clothing and other accessories.
 
 To procure these things, we need money, and to have money, we must work hard. 
 
@@ -42,7 +42,7 @@ Jesus has a good sense of irony. When seen in this light, the entire system beco
 
 ![](https://siran.github.io/assets/a_new_vision_on_money/consumers.png)
 
-Many have dared to point out the absurdity of the system. For example, in 2008, as a result of a financial crisis, the “Occupy” movement emerged as a way to protest financial injustices. There are also anti-consumption movements that highlight the absurdity and danger of centering society around the idea of constant consumption of goods and buying products. These and many other similar groups protest the system because they can see the harmful effects it has on people and the environment. However, no group points out that the real problem is that we incorrectly believe the body governs itself.
+Many have dared to point out the absurdity of the system. For example, in 2008, as a result of a financial crisis, the “Occupy” movement emerged as a way to protest financial injustices. There are also anti-consumption movements that highlight the absurdity and danger of centering society around the idea of constant consumption of goods and buying products. These and many other similar groups protest the system because they can see the harmful effects it has on people and the environment. **However, no group points out that the real problem is that we incorrectly believe that the body governs itself.**
 
 In this world, we see these problems as something very serious. We think that money is simply a fact we must live with because the body needs things. There is no doubt that we have learned very well the central lesson this system wants to teach us: the body is cause and not effect.
 
