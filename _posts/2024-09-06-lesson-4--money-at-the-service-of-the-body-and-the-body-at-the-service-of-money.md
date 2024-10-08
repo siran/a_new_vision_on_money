@@ -1,5 +1,5 @@
 ---
-title: "Lesson 4: Money at the service of the body, and the body at the service of money"
+title: On Money - 4. Money at the service of the body, and the body at the service of money
 date: 2024-09-06 07:03:45
 tags:
   - money

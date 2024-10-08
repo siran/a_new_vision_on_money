@@ -1,5 +1,5 @@
 ---
-title: Introduction - A New Vision on Money
+title: On Money - Introduction - A New Vision on Money
 date: 2024-08-23 10:29:45
 excerpt: When money becomes an end in itself, it also becomes a source of problems on its own. For example, it is well known that one of the main causes of relationship breakups nowadays is money.
 canonical_url: https://anrodriguez.substack.com/p/introductionhtml
